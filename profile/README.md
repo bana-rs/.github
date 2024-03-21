@@ -1,4 +1,4 @@
-Hi, I'm Bana. I am well-rounded Software Engineer with a decade's worth years of Software Engineering experience, and I understand what it takes to release a product having worked on the back-end, front-end, testing and finally the deployment aspect of several products. Reach out to me at <a href="mailto:mohamed@bana.io" target="blank">m@bana.rs</a>. Know about my experiences https://bana.io/resume/cv.
+Hi, I'm Bana. I am well-rounded Software Engineer with a decade's worth years of Software Engineering experience, and I understand what it takes to release a product having worked on the back-end, front-end, testing and finally the deployment aspect of several products. Reach out to me at <a href="mailto:mohamed@bana.io" target="blank">mohamed@bana.rs</a>. Know about my experiences https://bana.io/resume/cv.
 
 ### Connect with me
 
